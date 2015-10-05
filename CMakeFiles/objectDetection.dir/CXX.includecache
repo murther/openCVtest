@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/murther/Documents/cpp/objectDetection.cpp
+opencv2/objdetect/objdetect.hpp
+/home/murther/Documents/cpp/opencv2/objdetect/objdetect.hpp
+opencv2/video/video.hpp
+/home/murther/Documents/cpp/opencv2/video/video.hpp
+opencv2/highgui/highgui.hpp
+/home/murther/Documents/cpp/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/murther/Documents/cpp/opencv2/imgproc/imgproc.hpp
+iostream
+-
+stdio.h
+-
+

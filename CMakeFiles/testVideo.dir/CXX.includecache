@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/murther/Documents/cpp/testVideo.cpp
+opencv2/highgui/highgui.hpp
+/home/murther/Documents/cpp/opencv2/highgui/highgui.hpp
+iostream
+-
+
